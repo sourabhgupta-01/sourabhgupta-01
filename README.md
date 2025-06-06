@@ -7,9 +7,20 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
 <h3 align="center">🚀 A passionate Frontend Developer from India 🇮🇳</h3>
 
-<!-- GIF -->
+<!-- GIF 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400"/>
+</p>
+-->
+<!-- Stylish Circular Image with Hover -->
+<p align="center">
+  <img src="mypic.jpg" alt="Sourabh's Photo" width="200" style="
+    border-radius: 50%;
+    border: 4px solid #00ffff;
+    box-shadow: 0 0 20px #00ffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 30px #00ffff';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00ffff';">
 </p>
 
 ---

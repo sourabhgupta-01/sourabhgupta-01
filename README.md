@@ -14,7 +14,7 @@
 -->
 <!-- Stylish Circular Image with Hover -->
 <p align="center">
-  <img src="mypic.jpg" alt="Sourabh's Photo" width="200" style="
+  <img src="myimg.jpg" alt="Sourabh's Photo" width="200" style="
     border-radius: 50%;
     border: 4px solid #00ffff;
     box-shadow: 0 0 20px #00ffff;
